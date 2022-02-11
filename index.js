@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-
+// Include the other .js file, inquirer for user input, and fs for file creation
 const generate = require('./utils/generateMarkdown.js')
 const inquirer = require('inquirer');
 const fs = require('fs');
@@ -28,6 +28,7 @@ function writeToFile(fileName, data)
 // TODO: Create a function to initialize app
 function init() 
 {
+    // prompt user with questions in terminal using Inquirer
     inquirer
     .prompt([
     {

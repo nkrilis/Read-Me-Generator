@@ -171,4 +171,5 @@ function generateMarkdown(data) {
   `;
 }
 
+// Export the generateMarkdown function so the other js file can call it
 module.exports = generateMarkdown;
