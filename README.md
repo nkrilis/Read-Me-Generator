@@ -20,6 +20,9 @@
   In order to install this project you must first clone the repo to your local machine. Then run the command `npm -install`. This will install the necessary dependencies required to run the program, all of which are defined in the `package.json`. Once the installation is complete then run `node index.js`, answer all the questions with no limit to characters. Once the program is finished prompting you it will have created a `README.md` in the same directory. If you realize you made some mistakes you can run the program again and it will overwrite the previous `README.md`.
   ## Usage
   After you have spent hours coding and getting your project to work it may feel a bit tedious to create a README. For some it is as easy as answering some questions and viola your README is created. It will include headings, table of contents, licensing, badges, and even how to contact you. If you want to know how you can use this refer to [the installation section](#installation)
+  
+<iframe src="https://drive.google.com/file/d/1a-182CVXuLqokpy1JHm_NH3zZz9AeizG/preview" width="640" height="480" allow="autoplay"></iframe>
+  
   ## How to Contribute
   Contributors to this project are solely Nicholas Krilis. If you would like to make some changes you can fork this repository, make your additions/changes and submit your pull request(s). I will take a look and merge it if all looks good. Thank you!
   ## Tests
